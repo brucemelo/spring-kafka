@@ -12,5 +12,5 @@
 
 - Spring Boot 3.3
 - Kafka
-- Testcontainers
+- Testcontainers 
 - Docker
