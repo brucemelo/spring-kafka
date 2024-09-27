@@ -9,7 +9,6 @@
         <appender-ref ref="STDOUT"/>
     </root>
 
-    <logger name="org.testcontainers" level="INFO"/>
     <logger name="org.apache.kafka.clients.consumer" level="OFF"/>
     <logger name="org.apache.kafka.clients.producer" level="OFF"/>
     <logger name="org.apache.kafka.clients.admin" level="OFF"/>
